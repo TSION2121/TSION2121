@@ -82,10 +82,12 @@ I'm a multidisciplinary engineer with 5+ years of experience in software develop
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TSION2121&layout=compact&theme=radical)
 
-## 📈 GitHub Stats
 
-![Tsion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TSION2121&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TSION2121&layout=compact&theme=radical)
+## 🎓 Currently Learning
+
+![AI](https://img.shields.io/badge/AI-MSc-blue?style=flat-square)
+![Drone Tech](https://img.shields.io/badge/Drone%20Tech-Certified-green?style=flat-square)
+![Space Systems](https://img.shields.io/badge/Space%20Systems-SGAC%20Training-purple?style=flat-square)
 
 > “I build systems that learn, adapt, and empower communities—from Earth to orbit.”
 
