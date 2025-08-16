@@ -78,6 +78,10 @@ I'm a multidisciplinary engineer with 5+ years of experience in software develop
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+## 📈 GitHub Stats
+
+![Tsion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TSION2121&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TSION2121&layout=compact&theme=radical)
 
 > “I build systems that learn, adapt, and empower communities—from Earth to orbit.”
 
