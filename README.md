@@ -80,7 +80,7 @@ I'm a multidisciplinary engineer with 5+ years of experience in software develop
 
 ## 📈 GitHub Stats
 
-![Tsion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TSION2121&show_icons=true&theme=radical)
+## ![Tsion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TSION2121&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TSION2121&layout=compact&theme=radical)
 
 > “I build systems that learn, adapt, and empower communities—from Earth to orbit.”
