@@ -101,7 +101,6 @@ I'm a multidisciplinary engineer with 5+ years of experience in software develop
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## 📈 GitHub Stats
-![Tsion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TSION2121&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TSION2121&layout=compact&theme=radical)
 
 
