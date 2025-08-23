@@ -103,8 +103,14 @@ I'm a multidisciplinary engineer with 5+ years of experience in software develop
 ## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TSION2121&layout=compact&theme=radical)
 
-![Build](https://img.shields.io/github/actions/workflow/status/your-username/your-repo-name/build.yml)
-![License](https://img.shields.io/github/license/your-username/your-repo-name)
+## Badges 
+![React](https://img.shields.io/badge/React-2023-blue?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-Strict-blue?logo=typescript)
+![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-green?logo=opencv)
+
+![Last Commit](https://img.shields.io/github/last-commit/TSION2121/planetarium-dashboard)
+![Repo Size](https://img.shields.io/github/repo-size/TSION2121/planetarium-dashboard)
+![License](https://img.shields.io/github/license/TSION2121/planetarium-dashboard)
 
 
 
