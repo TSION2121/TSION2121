@@ -103,6 +103,10 @@ I'm a multidisciplinary engineer with 5+ years of experience in software develop
 ## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TSION2121&layout=compact&theme=radical)
 
+![Build](https://img.shields.io/github/actions/workflow/status/your-username/your-repo-name/build.yml)
+![License](https://img.shields.io/github/license/your-username/your-repo-name)
+
+
 
 
 ## 🎓 Currently Learning
