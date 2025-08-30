@@ -5,6 +5,7 @@
 📫 tsionbizuayehu3@gmail.com | [GitHub](https://github.com/TSION2121) | [LinkedIn](https://www.linkedin.com/in/tsion-bizuayehu-1932b91aa/)
 
 ---
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=OWNER.REPO)
 
 ## 🌟 About Me
 
