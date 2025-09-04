@@ -1,20 +1,30 @@
-# 👋 Hi, I'm Tsion Bizuayehu
+# 🌟 Tsion Bizuayehu — Full-Stack Developer, AI/Software Engineer, Space Systems Enthusiast
 
-**Full-Stack Developer | AI & Software Engineer | Space Systems Enthusiast**  
-📍 Addis Ababa, Ethiopia | 🌐 Remote-Ready  
-📫 tsionbizuayehu3@gmail.com | [GitHub](https://github.com/TSION2121) | [LinkedIn](https://www.linkedin.com/in/tsion-bizuayehu-1932b91aa/)
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TSION2121.TSION2121)](https://github.com/TSION2121/TSION2121)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TSION2121&show_icons=true&theme=radical)
+
+**Remote-ready | Addis Ababa, Ethiopia**
+
+📧 [Email](mailto:tsionbizuayehu3@gmail.com) • [GitHub](https://github.com/TSION2121) • [LinkedIn](https://www.linkedin.com/in/tsion-bizuayehu-1932b91aa/)
 
 ---
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=OWNER.REPO)
 
-## 🌟 About Me
+## 🚀 Quick Profile
 
-I'm a multidisciplinary engineer with 5+ years of experience in software development, backend systems, and AI integration—now expanding into space systems engineering. I build scalable platforms, intelligent models, and educational tools that bridge technology and impact.
+- Multidisciplinary engineer (5+ years), building scalable platforms, backend systems, and integrating AI.
+- MSc Artificial Intelligence, Addis Ababa University. Passion for celestial visualization, orbital modeling, and space outreach. 
+- Exploring AI for agriculture, climate resilience, and low-resource languages.
 
-🔭 Currently pursuing an MSc in Artificial Intelligence at Addis Ababa University  
-🛰️ Passionate about celestial visualization, orbital modeling, and space outreach  
-🌱 Exploring AI for agriculture, climate resilience, and low-resource languages  
-🎓 Certified in Drone & Data Technology and Space Systems Engineering
+---
+
+## 🏆 Featured Projects
+
+- 🌾 [Bayesian Crop Yield Predictor](https://github.com/TSION2121/bayesian-crop-yield-predictor) — Probabilistic model for agricultural forecasting.
+- 🚀 [Space Mission Cost Estimator](https://github.com/TSION2121/space-mission-cost-estimator) — ML-based tool using historical mission data.
+- 🌌 [Planetarium Explorer TS](https://github.com/TSION2121/planetarium-explorer-ts) — Real-time celestial visualization/calibration.
+- 📡 [Drone Panorama Stitching CV](https://github.com/TSION2121/drone-panorama-stitching-cv) — Computer vision for drone panoramas.
+- 🎥 [Video Streaming Platform](https://github.com/TSION2121/video-streaming-platform) — Full-stack app with subscription/payment logic.
+- 🏦 [Zemen Bank Demo](https://github.com/TSION2121/zemen-bank-demo) — Communication platform (Spring Boot & Figma).
 
 ---
 
@@ -34,33 +44,20 @@ I'm a multidisciplinary engineer with 5+ years of experience in software develop
 
 ---
 
-## 🚀 Featured Projects
-
-- 🌾 **Bayesian Crop Yield Predictor** – Probabilistic model for agricultural forecasting  
-- 🛰️ **Space Mission Cost Estimator** – ML-based tool using historical mission data  
-- 🌌 **Planetarium Software Tool** – Real-time celestial visualization and calibration logic  
-- 📡 **Drone Education Kit** – Hands-on cardboard aircraft for STEM outreach  
-- 🎥 **Video Streaming Platform** – Full-stack app with subscription/payment logic  
-- 🏦 **Zemen Bank Demo** – Communication platform with Spring Boot & Figma
-
----
-
 ## 🌍 Leadership & Outreach
 
-- **Vice President**, Ahamenes Space Science Club (2022–2024)  
-  Led astronomy projects, built a cardboard planetarium, and mentored peers  
-- **Project Manager**, Ethiopian Space Science Society (2018–Present)  
-  Leading website development and community engagement  
-- **IAU General Assembly 2024** – Participant & Volunteer  
-- **Stargazing Facilitator** – Organized public events and science workshops
+- **Vice President**, Ahamenes Space Science Club (2022–2024): Led astronomy projects, built a cardboard planetarium, mentored peers.
+- **Project Manager**, Ethiopian Space Science Society (2018–Present): Leading website development and community engagement.
+- **IAU General Assembly 2024** – Participant & Volunteer.
+- **Stargazing Facilitator** – Organized public events and science workshops.
 
 ---
 
-## 📚 Education
+## 🎓 Education
 
-- 🎓 MSc in Artificial Intelligence, Addis Ababa University (2024–Present)  
-- 🎓 BSc in Software Engineering, AASTU (2020–2024)  
-- 🛰️ Space Systems Engineering Training, SGAC / ACHIEVED Academy (2024)  
+- 🎓 MSc in Artificial Intelligence, Addis Ababa University (2024–Present)
+- 🎓 BSc in Software Engineering, AASTU (2020–2024)
+- 🚀 Space Systems Engineering Training, SGAC / ACHIEVED Academy (2024)
 - 🚁 Drone & Data Technology Certification, Africa Drone & Data Academy (2024)
 
 ---
@@ -70,6 +67,7 @@ I'm a multidisciplinary engineer with 5+ years of experience in software develop
 `Amharic` (Native) | `English` (Fluent) | `French` (Intermediate – Duolingo Score: 67)
 
 ---
+
 ## 🧰 Tech Toolbox
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -101,17 +99,25 @@ I'm a multidisciplinary engineer with 5+ years of experience in software develop
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 📈 GitHub Stats
+---
+
+## 📈 GitHub Top Languages
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TSION2121&layout=compact&theme=radical)
 
+---
 
+## 🧑‍💻 Open Source & Community
 
+- Contributor to various open-source projects in AI, space systems, and web development.
+- Actively engaged in GitHub discussions and Ethiopian space/tech communities.
 
-## 🎓 Currently Learning
+---
+
+## 🎖️ Currently Learning
 
 ![AI](https://img.shields.io/badge/AI-MSc-blue?style=flat-square)
 ![Drone Tech](https://img.shields.io/badge/Drone%20Tech-Certified-green?style=flat-square)
 ![Space Systems](https://img.shields.io/badge/Space%20Systems-SGAC%20Training-purple?style=flat-square)
 
 > “I build systems that learn, adapt, and empower communities—from Earth to orbit.”
-
