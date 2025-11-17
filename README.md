@@ -106,7 +106,7 @@ I'm a multidisciplinary engineer with 5+ years of experience in software develop
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TSION2121&layout=compact&theme=radical)
 
 
-![Tsion's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsionbizuayehu&show_icons=true&theme=radical)
+![Tsion's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsion2121&show_icons=true&theme=radical)
 
 ## 🎓 Currently Learning
 
