@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | AI & Software Engineer | Space Systems Enthusiast**  
 📍 Addis Ababa, Ethiopia | 🌐 Remote-Ready  
-📫 tsionbizuayehu3@gmail.com | [GitHub](https://github.com/TSION2121) | [LinkedIn](https://www.linkedin.com/in/tsion-bizuayehu-1932b91aa/)
+📫 tsionbizuayehu3@gmail.com | [LinkedIn](https://www.linkedin.com/in/tsion-bizuayehu-1932b91aa/)
 
 ---
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=OWNER.REPO)
